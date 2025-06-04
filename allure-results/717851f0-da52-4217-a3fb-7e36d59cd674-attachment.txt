@@ -1,0 +1,82 @@
+
+ FORM FIELDS DEBUG REPORT (AUTHENTICATED)
+=============================================
+ Total Fields Found: 19
+
+ FIELD DETAILS:
+
+ 1.     ID: no-id                | Type: select-one
+      Placeholder: no-placeholder
+      Current Value: us
+
+ 2.     ID: no-id                | Type: select-one
+      Placeholder: no-placeholder
+      Current Value: en
+
+ 3.     ID: no-id                | Type: text      
+      Placeholder: Search here...
+      Current Value: 
+
+ 4.     ID: name                 | Type: text      
+      Placeholder: Enter Name
+      Current Value: 
+
+ 5.     ID: email                | Type: text      
+      Placeholder: example@gmail.com
+      Current Value: 
+
+ 6.     ID: countryDialCode      | Type: text      
+      Placeholder: Enter Code
+      Current Value: 
+
+ 7.     ID: phone                | Type: text      
+      Placeholder: Enter phone number
+      Current Value: 
+
+ 8.     ID: dateOfBirth          | Type: text      
+      Placeholder: Select date of birth
+      Current Value: 
+
+ 9.     ID: gender               | Type: search    
+      Placeholder: no-placeholder
+      Current Value: 
+
+10.     ID: location             | Type: text      
+      Placeholder: Enter location
+      Current Value: 
+
+11.     ID: password             | Type: password  
+      Placeholder: *********
+      Current Value: 
+
+12.     ID: role                 | Type: text      
+      Placeholder: business
+      Current Value: business
+
+13.     ID: companyAddress       | Type: text      
+      Placeholder: Enter company address
+      Current Value: 
+
+14.     ID: companyName          | Type: text      
+      Placeholder: Enter company name
+      Current Value: 
+
+15.     ID: free_downloads       | Type: number    
+      Placeholder: Enter free downloads
+      Current Value: 
+
+16.     ID: free_uploads         | Type: number    
+      Placeholder: Enter free uploads
+      Current Value: 
+
+17.     ID: picture              | Type: file      
+      Placeholder: no-placeholder
+      Current Value: 
+
+18.     ID: id_proof             | Type: file      
+      Placeholder: no-placeholder
+      Current Value: 
+
+19.     ID: verification_id      | Type: file      
+      Placeholder: no-placeholder
+      Current Value: 

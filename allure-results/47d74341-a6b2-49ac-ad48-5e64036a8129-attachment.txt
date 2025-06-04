@@ -1,0 +1,34 @@
+ Successfully logged in as: admin@gmail.com
+ Successfully navigated to Business Owners page
+ Add Business Owner modal opened
+ Generated test data for: TestUser_20250604_155350
+ Filled name: TestUser_20250604_155350
+ Filled email: testuser1749030830430@example.com
+ Filled countryDialCode: +880
+ Filled phone: 01738608117
+ Filled dateOfBirth: 1990-01-01
+Found gender field using: #gender
+ Selected gender: Male
+ Filled location
+ Filled password
+ Filled companyAddress
+ Filled companyName
+ Filled free downloads
+ Filled free uploads
+ Form validation completed
+ SUBMITTING FORM TO CREATE BUSINESS OWNER...
+ Submit button clicked!
+
+BUSINESS OWNER CREATION COMPLETED!
+
+Email: testuser1749030830430@example.com
+ Name: TestUser_20250604_155350  
+ Company: TestCompany_20250604_155350📱 Phone: 01738608117
+Current URL: https://dashboard.impactoapps.com/business-owners
+ Page Title: Coupon Dashboard
+ Timestamp: 2025-06-04 15:55:15
+Success Detected: False
+ Error Detected: False
+                    
+ SUCCESS: Business owner likely created successfully!
+ Closing browser...

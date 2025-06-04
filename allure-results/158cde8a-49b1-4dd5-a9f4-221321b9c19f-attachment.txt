@@ -1,0 +1,60 @@
+
+📝 Form Fields Analysis:
+================================================================================
+ 1. ID: no-id                | Type: select-one | Visible: True
+     Placeholder: no-placeholder
+
+ 2. ID: no-id                | Type: select-one | Visible: True
+     Placeholder: no-placeholder
+
+ 3. ID: no-id                | Type: text       | Visible: True
+     Placeholder: Search here...
+
+ 4. ID: name                 | Type: text       | Visible: True
+     Placeholder: Enter Name
+
+ 5. ID: email                | Type: text       | Visible: True
+     Placeholder: example@gmail.com
+
+ 6. ID: countryDialCode      | Type: text       | Visible: True
+     Placeholder: Enter Code
+
+ 7. ID: phone                | Type: text       | Visible: True
+     Placeholder: Enter phone number
+
+ 8. ID: dateOfBirth          | Type: text       | Visible: True
+     Placeholder: Select date of birth
+
+ 9. ID: gender               | Type: search     | Visible: True
+     Placeholder: no-placeholder
+
+10. ID: location             | Type: text       | Visible: True
+     Placeholder: Enter location
+
+11. ID: password             | Type: password   | Visible: True
+     Placeholder: *********
+
+12. ID: role                 | Type: text       | Visible: True
+     Placeholder: business
+
+13. ID: companyAddress       | Type: text       | Visible: True
+     Placeholder: Enter company address
+
+14. ID: companyName          | Type: text       | Visible: True
+     Placeholder: Enter company name
+
+15. ID: free_downloads       | Type: number     | Visible: True
+     Placeholder: Enter free downloads
+
+16. ID: free_uploads         | Type: number     | Visible: True
+     Placeholder: Enter free uploads
+
+17. ID: picture              | Type: file       | Visible: False
+     Placeholder: no-placeholder
+
+18. ID: id_proof             | Type: file       | Visible: False
+     Placeholder: no-placeholder
+
+19. ID: verification_id      | Type: file       | Visible: False
+     Placeholder: no-placeholder
+

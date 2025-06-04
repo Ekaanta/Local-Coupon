@@ -1,0 +1,12 @@
+📝 GENERATED TEST DATA:
+  • name: TestUser_20250604_170403
+  • email: testuser1749035043783@example.com
+  • countryDialCode: +880
+  • phone: 01785911878
+  • dateOfBirth: 1990-01-01
+  • location: Dhaka, Bangladesh
+  • password: TestPass123!
+  • companyAddress: 123 Test Street, Dhaka-20250604_170403
+  • companyName: TestCompany_20250604_170403
+  • free_downloads: 20
+  • free_uploads: 30

@@ -1,0 +1,10 @@
+📋 FORM VALIDATION REPORT:
+  ✅ name: TestUser_20250604_153221
+  ✅ email: testuser1749029541406@example....
+  ✅ countryDialCode: +880
+  ✅ phone: 01718716479
+  ✅ dateOfBirth: 1990-01-01
+  ✅ location: Dhaka, Bangladesh
+  ✅ password: TestPass123!
+  ✅ companyAddress: 123 Test Street, Dhaka-2025060...
+  ✅ companyName: TestCompany_20250604_153221

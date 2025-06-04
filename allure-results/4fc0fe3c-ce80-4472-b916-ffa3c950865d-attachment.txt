@@ -1,0 +1,13 @@
+
+🎯 BUSINESS OWNER CREATION COMPLETED!
+
+📧 Email: testuser1749029541406@example.com
+👤 Name: TestUser_20250604_153221  
+🏢 Company: TestCompany_20250604_153221
+📱 Phone: 01718716479
+🌐 Current URL: https://dashboard.impactoapps.com/business-owners
+📄 Page Title: Coupon Dashboard
+⏰ Timestamp: 2025-06-04 15:33:47
+✅ Success Detected: False
+❌ Error Detected: False
+                    

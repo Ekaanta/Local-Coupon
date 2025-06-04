@@ -1,0 +1,12 @@
+Field Validation Results:
+✓ name: Filled
+✓ email: Filled
+✓ countryDialCode: Filled
+✓ phone: Filled
+✓ dateOfBirth: Filled
+✓ location: Filled
+✓ password: Filled
+✓ companyAddress: Filled
+✓ companyName: Filled
+✓ free_downloads: Filled
+✓ free_uploads: Filled

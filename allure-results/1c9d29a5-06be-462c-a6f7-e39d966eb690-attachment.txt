@@ -1,0 +1,5 @@
+Clicking gender dropdown...
+Available options:
+  {'index': 0, 'id': 'gender_list_0', 'text': 'male', 'ariaLabel': 'Male', 'visible': True, 'display': 'block', 'visibility': 'visible'}
+  {'index': 1, 'id': 'gender_list_1', 'text': 'female', 'ariaLabel': 'Female', 'visible': True, 'display': 'block', 'visibility': 'visible'}
+Attempting to click option: {'index': 0, 'id': 'gender_list_0', 'text': 'male', 'ariaLabel': 'Male', 'visible': True, 'display': 'block', 'visibility': 'visible'}

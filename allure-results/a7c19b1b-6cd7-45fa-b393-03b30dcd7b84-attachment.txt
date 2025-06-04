@@ -1,0 +1,20 @@
+Available form fields:
+  {'index': 0, 'id': '', 'name': '', 'type': 'select-one', 'placeholder': None, 'visible': True, 'required': False}
+  {'index': 1, 'id': '', 'name': '', 'type': 'select-one', 'placeholder': None, 'visible': True, 'required': False}
+  {'index': 2, 'id': '', 'name': '', 'type': 'text', 'placeholder': 'Search here...', 'visible': True, 'required': False}
+  {'index': 3, 'id': 'name', 'name': '', 'type': 'text', 'placeholder': 'Enter Name', 'visible': True, 'required': False}
+  {'index': 4, 'id': 'email', 'name': '', 'type': 'text', 'placeholder': 'example@gmail.com', 'visible': True, 'required': False}
+  {'index': 5, 'id': 'countryDialCode', 'name': '', 'type': 'text', 'placeholder': 'Enter Code', 'visible': True, 'required': False}
+  {'index': 6, 'id': 'phone', 'name': '', 'type': 'text', 'placeholder': 'Enter phone number', 'visible': True, 'required': False}
+  {'index': 7, 'id': 'dateOfBirth', 'name': '', 'type': 'text', 'placeholder': 'Select date of birth', 'visible': True, 'required': False}
+  {'index': 8, 'id': 'gender', 'name': '', 'type': 'search', 'placeholder': '', 'visible': True, 'required': False}
+  {'index': 9, 'id': 'location', 'name': '', 'type': 'text', 'placeholder': 'Enter location', 'visible': True, 'required': False}
+  {'index': 10, 'id': 'password', 'name': '', 'type': 'password', 'placeholder': '*********', 'visible': True, 'required': False}
+  {'index': 11, 'id': 'role', 'name': '', 'type': 'text', 'placeholder': 'business', 'visible': True, 'required': False}
+  {'index': 12, 'id': 'companyAddress', 'name': '', 'type': 'text', 'placeholder': 'Enter company address', 'visible': True, 'required': False}
+  {'index': 13, 'id': 'companyName', 'name': '', 'type': 'text', 'placeholder': 'Enter company name', 'visible': True, 'required': False}
+  {'index': 14, 'id': 'free_downloads', 'name': '', 'type': 'number', 'placeholder': 'Enter free downloads', 'visible': True, 'required': False}
+  {'index': 15, 'id': 'free_uploads', 'name': '', 'type': 'number', 'placeholder': 'Enter free uploads', 'visible': True, 'required': False}
+  {'index': 16, 'id': 'picture', 'name': 'file', 'type': 'file', 'placeholder': '', 'visible': False, 'required': False}
+  {'index': 17, 'id': 'id_proof', 'name': 'file', 'type': 'file', 'placeholder': '', 'visible': False, 'required': False}
+  {'index': 18, 'id': 'verification_id', 'name': 'file', 'type': 'file', 'placeholder': '', 'visible': False, 'required': False}

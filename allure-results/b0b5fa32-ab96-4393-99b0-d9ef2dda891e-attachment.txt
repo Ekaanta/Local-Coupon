@@ -1,0 +1,19 @@
+Clicking 'Add Business Owner' button...
+Modal appeared!
+Handling gender dropdown...
+Selecting Male option using JavaScript...
+Gender selection completed
+Filled #location
+Filled #password
+Filled #companyAddress
+Filled #companyName
+freeDownloads field not found or not fillable: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#freeDownloads")
+
+freeUploads field not found or not fillable: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#freeUploads")
+
+Skipping file uploads...
+Test completed!

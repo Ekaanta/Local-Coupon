@@ -1,0 +1,82 @@
+
+🔍 FORM FIELDS DEBUG REPORT
+=============================================
+📊 Total Fields Found: 19
+
+📋 FIELD DETAILS:
+
+ 1.  ID: no-id                | Type: select-one | Visible: 
+     Placeholder: no-placeholder
+       Required: No
+
+ 2.  ID: no-id                | Type: select-one | Visible: 
+     Placeholder: no-placeholder
+       Required: No
+
+ 3.  ID: no-id                | Type: text       | Visible: 
+     Placeholder: Search here...
+       Required: No
+
+ 4.  ID: name                 | Type: text       | Visible: 
+     Placeholder: Enter Name
+       Required: No
+
+ 5.  ID: email                | Type: text       | Visible: 
+     Placeholder: example@gmail.com
+       Required: No
+
+ 6.  ID: countryDialCode      | Type: text       | Visible: 
+     Placeholder: Enter Code
+       Required: No
+
+ 7.  ID: phone                | Type: text       | Visible: 
+     Placeholder: Enter phone number
+       Required: No
+
+ 8.  ID: dateOfBirth          | Type: text       | Visible: 
+     Placeholder: Select date of birth
+       Required: No
+
+ 9.  ID: gender               | Type: search     | Visible: 
+     Placeholder: no-placeholder
+       Required: No
+
+10.  ID: location             | Type: text       | Visible: 
+     Placeholder: Enter location
+       Required: No
+
+11.  ID: password             | Type: password   | Visible: 
+     Placeholder: *********
+       Required: No
+
+12.  ID: role                 | Type: text       | Visible: 
+     Placeholder: business
+       Required: No
+
+13.  ID: companyAddress       | Type: text       | Visible: 
+     Placeholder: Enter company address
+       Required: No
+
+14.  ID: companyName          | Type: text       | Visible: 
+     Placeholder: Enter company name
+       Required: No
+
+15.  ID: free_downloads       | Type: number     | Visible: 
+     Placeholder: Enter free downloads
+       Required: No
+
+16.  ID: free_uploads         | Type: number     | Visible: 
+     Placeholder: Enter free uploads
+       Required: No
+
+17.  ID: picture              | Type: file       | Visible: 
+     Placeholder: no-placeholder
+       Required: No
+
+18.  ID: id_proof             | Type: file       | Visible: 
+     Placeholder: no-placeholder
+       Required: No
+
+19.  ID: verification_id      | Type: file       | Visible: 
+     Placeholder: no-placeholder
+       Required: No

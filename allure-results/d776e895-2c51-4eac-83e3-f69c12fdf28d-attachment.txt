@@ -1,0 +1,8 @@
+Clicking 'Add Business Owner' button...
+Modal appeared!
+Selecting gender...
+Selected gender using Method 2
+Test failed with error: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#freeDownloads")
+

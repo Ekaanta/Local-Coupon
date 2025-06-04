@@ -1,0 +1,13 @@
+ Successfully logged in as: admin@gmail.com
+ Successfully navigated to Business Owners page
+ Add Business Owner modal opened
+ Generated test data for: TestUser_20250604_164910
+ Filled name: TestUser_20250604_164910
+ Filled email: testuser1749034150459@example.com
+ Filled countryDialCode: +880
+ Filled phone: 01747119588
+ Filled dateOfBirth: 1990-01-01
+Found gender field using: #gender
+ Selected gender: Male
+ TEST FAILED: 'location'
+ Closing browser...

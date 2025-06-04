@@ -1,0 +1,12 @@
+Test Data:
+name: Test User 20250604_130213
+email: testuser1749020533@example.com
+countryDialCode: +880
+phone: 01712677170
+dateOfBirth: 1990-01-01
+location: Dhaka, Bangladesh
+password: SecurePass123!
+companyAddress: 123 Test Street, Dhaka - 20250604_130213
+companyName: Test Company Ltd 20250604_130213
+free_downloads: 15
+free_uploads: 25

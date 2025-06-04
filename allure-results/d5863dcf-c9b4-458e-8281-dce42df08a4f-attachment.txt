@@ -1,0 +1,4 @@
+ Business Owner created successfully!
+Email: testuser1749024952@example.com
+Name: Test User 20250604_141552
+Company: Test Company Ltd 20250604_141552

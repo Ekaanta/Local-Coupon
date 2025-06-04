@@ -1,0 +1,13 @@
+Clicking 'Add Business Owner' button...
+Modal appeared!
+Handling gender dropdown...
+Gender selection completed
+Filled #location
+Filled #password
+Filled #companyAddress
+Filled #companyName
+Filled free_downloads
+Filled free_uploads
+Skipping file uploads...
+Ready to submit - uncomment the next line to actually submit
+Test completed successfully!

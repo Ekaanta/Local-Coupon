@@ -1,0 +1,19 @@
+✅ Successfully logged in as: admin@gmail.com
+✅ Successfully navigated to Business Owners page
+✅ Add Business Owner modal opened
+📝 Generated test data for: TestUser_20250604_170403
+✅ Filled name: TestUser_20250604_170403
+✅ Filled email: testuser1749035043783@example.com
+✅ Filled countryDialCode: +880
+✅ Filled phone: 01785911878
+✅ Filled dateOfBirth: 1990-01-01
+
+🔍 DEBUGGING GENDER FIELD...
+❌ Debug failed: Page.evaluate: TypeError: className.toLowerCase is not a function
+    at eval (eval at evaluate (:313:29), <anonymous>:43:35)
+    at NodeList.forEach (<anonymous>)
+    at eval (eval at evaluate (:313:29), <anonymous>:34:48)
+    at UtilityScript.evaluate (<anonymous>:320:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+❌ TEST FAILED: name 'select_gender_comprehensive' is not defined
+🔄 Closing browser...

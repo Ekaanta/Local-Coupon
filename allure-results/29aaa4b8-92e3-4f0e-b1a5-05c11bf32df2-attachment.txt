@@ -1,0 +1,2 @@
+✅ Successfully logged in as: admin@gmail.com
+🔍 Found 19 form fields after login

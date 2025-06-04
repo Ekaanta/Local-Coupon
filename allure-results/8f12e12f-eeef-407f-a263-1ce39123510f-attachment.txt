@@ -1,0 +1,48 @@
+✅ Successfully logged in as: admin@gmail.com
+✅ Successfully navigated to Business Owners page
+✅ Add Business Owner modal opened
+📝 Generated test data for: TestUser_20250604_165916
+✅ Filled name: TestUser_20250604_165916
+✅ Filled email: testuser1749034756492@example.com
+✅ Filled countryDialCode: +880
+✅ Filled phone: 01771982040
+✅ Filled dateOfBirth: 1990-01-01
+⚠️ Gender selection skipped: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[role=\"option\"]:has-text(\"Male\"), .ant-select-item:has-text(\"Male\")").first
+    - locator resolved to <div role="option" aria-label="Male" id="gender_list_0" aria-selected="false">male</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+✅ Filled location
+✅ Filled password
+✅ Filled companyAddress
+✅ Filled companyName
+✅ Filled free downloads
+✅ Filled free uploads
+🚀 SUBMITTING FORM TO CREATE BUSINESS OWNER...
+✅ Submit button clicked!
+
+🎉 BUSINESS OWNER CREATION COMPLETED!
+
+📧 Email: testuser1749034756492@example.com
+👤 Name: TestUser_20250604_165916  
+🏢 Company: TestCompany_20250604_165916
+📱 Phone: 01771982040
+🌐 Current URL: https://dashboard.impactoapps.com/business-owners
+📄 Page Title: Coupon Dashboard
+⏰ Timestamp: 2025-06-04 16:59:55
+✅ Success Detected: True
+                    
+🔄 Closing browser...

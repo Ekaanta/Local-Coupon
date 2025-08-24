@@ -1,0 +1,8 @@
+pytest
+selenium
+allure-pytest
+pytest-html
+pytest
+selenium
+allure-pytest
+pytest-html
